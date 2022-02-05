@@ -22,20 +22,209 @@ Readings by Week
 
 All textbook readings come from _Continuum Electromechanics_.
 
-| WEEK # | TOPICS | READINGS |
-| --- | --- | --- |
-| 1 | Review of Maxwell's equations | Lecture note 1 |
-| 2 |  {{< br >}}{{< br >}} Flux-potential relations for Laplacian fields {{< br >}}{{< br >}} Air-gap magnetic machines and electrostatic machines {{< br >}}{{< br >}}  |  {{< br >}}{{< br >}} Lecture note 2  {{< br >}}Section 2.16 {{< br >}}{{< br >}} Lecture note 3  {{< br >}}Sections 4.1 to 4.3 {{< br >}}{{< br >}}  |
-| 3 | Solenoidal fields and vector potential transfer relations | Lecture note 4  {{< br >}}Sections 2.18 to 2.19 |
-| 4 |  {{< br >}}{{< br >}} Laws, approximations, and relations of fluid mechanics {{< br >}}{{< br >}} Stress tensors {{< br >}}{{< br >}}  |  {{< br >}}{{< br >}} Lecture note 5  {{< br >}}Sections 7.1 to 7.9 {{< br >}}{{< br >}} Lecture note 6  {{< br >}}Sections 3.9 to 3.10 {{< br >}}{{< br >}}  |
-| 5 | Electromechanical dynamics | Lecture note 6 (cont.)  {{< br >}}Sections 4.4, 4.10, 6.1 to 6.6 |
-| 6 | Pressure-velocity relations for inviscid, incompressible fluids | Lecture note 7  {{< br >}}Sections 8.1 to 8.4 |
-| 7 |  {{< br >}}{{< br >}} Electrohydrodynamic and ferrohydrodynamic instabilities {{< br >}}{{< br >}} Kelvin-Helmholtz instability {{< br >}}{{< br >}}  | Lecture note 8  {{< br >}}Sections 8.9 to 8.14 |
-| 8 | Plasma stability (z-θ pinch) | Lecture note 9  {{< br >}}Section 8.12 |
-| 9 | Stability of a perfectly conducting spherical drop (Rayleigh's limit) | Lecture note 10  {{< br >}}Section 8.13 |
-| 10 | Stability of a perfectly conducting spherical drop (Rayleigh's limit) (cont.) | Lecture note 10 (cont.) |
-| 11 | Stability of a perfectly conducting spherical drop (Rayleigh's limit) (cont.) | Lecture note 10 (cont.) |
-| 12 | Smoothly inhomogeneous systems | Lecture note 11  {{< br >}}Section 8.18 
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+WEEK #
+{{< thclose >}}
+{{< thopen >}}
+TOPICS
+{{< thclose >}}
+{{< thopen >}}
+READINGS
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+1
+{{< tdclose >}}
+{{< tdopen >}}
+Review of Maxwell's equations
+{{< tdclose >}}
+{{< tdopen >}}
+Lecture note 1
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+2
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Flux-potential relations for Laplacian fields
+
+Air-gap magnetic machines and electrostatic machines
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Lecture note 2  
+Section 2.16
+
+Lecture note 3  
+Sections 4.1 to 4.3
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+3
+{{< tdclose >}}
+{{< tdopen >}}
+Solenoidal fields and vector potential transfer relations
+{{< tdclose >}}
+{{< tdopen >}}
+Lecture note 4  
+Sections 2.18 to 2.19
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+4
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Laws, approximations, and relations of fluid mechanics
+
+Stress tensors
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Lecture note 5  
+Sections 7.1 to 7.9
+
+Lecture note 6  
+Sections 3.9 to 3.10
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+5
+{{< tdclose >}}
+{{< tdopen >}}
+Electromechanical dynamics
+{{< tdclose >}}
+{{< tdopen >}}
+Lecture note 6 (cont.)  
+Sections 4.4, 4.10, 6.1 to 6.6
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+6
+{{< tdclose >}}
+{{< tdopen >}}
+Pressure-velocity relations for inviscid, incompressible fluids
+{{< tdclose >}}
+{{< tdopen >}}
+Lecture note 7  
+Sections 8.1 to 8.4
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+7
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Electrohydrodynamic and ferrohydrodynamic instabilities
+
+Kelvin-Helmholtz instability
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+Lecture note 8  
+Sections 8.9 to 8.14
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+8
+{{< tdclose >}}
+{{< tdopen >}}
+Plasma stability (z-θ pinch)
+{{< tdclose >}}
+{{< tdopen >}}
+Lecture note 9  
+Section 8.12
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+9
+{{< tdclose >}}
+{{< tdopen >}}
+Stability of a perfectly conducting spherical drop (Rayleigh's limit)
+{{< tdclose >}}
+{{< tdopen >}}
+Lecture note 10  
+Section 8.13
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+10
+{{< tdclose >}}
+{{< tdopen >}}
+Stability of a perfectly conducting spherical drop (Rayleigh's limit) (cont.)
+{{< tdclose >}}
+{{< tdopen >}}
+Lecture note 10 (cont.)
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+11
+{{< tdclose >}}
+{{< tdopen >}}
+Stability of a perfectly conducting spherical drop (Rayleigh's limit) (cont.)
+{{< tdclose >}}
+{{< tdopen >}}
+Lecture note 10 (cont.)
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+12
+{{< tdclose >}}
+{{< tdopen >}}
+Smoothly inhomogeneous systems
+{{< tdclose >}}
+{{< tdopen >}}
+Lecture note 11  
+Section 8.18
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
 Additional Topics
 -----------------

@@ -4,16 +4,93 @@ title: Assignments
 uid: 630a08e7-cb54-29b8-820a-77bfb0e97a06
 ---
 
-| ASSIGNMENTS | SOLUTIONS |
-| --- | --- |
-| Problem set 1 ([PDF]({{< baseurl >}}/resources/pset1)) | ([PDF - 1.0 MB]({{< baseurl >}}/resources/pset1_soln)) |
-| Problem set 2 ([PDF]({{< baseurl >}}/resources/pset2)) | ([PDF]({{< baseurl >}}/resources/pset2_soln)) |
-| Problem set 3 ([PDF]({{< baseurl >}}/resources/pset3)) | ([PDF]({{< baseurl >}}/resources/pset3_soln)) |
-| Problem set 4 ([PDF]({{< baseurl >}}/resources/pset4)) | ([PDF]({{< baseurl >}}/resources/pset4_soln)) |
-| Problem set 5 ([PDF]({{< baseurl >}}/resources/pset5)) | ([PDF]({{< baseurl >}}/resources/pset5_soln)) |
-| Problem set 6 ([PDF]({{< baseurl >}}/resources/pset6)) | ([PDF]({{< baseurl >}}/resources/pset6_soln)) |
-| Problem set 7 ([PDF]({{< baseurl >}}/resources/pset7)) | ([PDF]({{< baseurl >}}/resources/pset7_soln)) |
-| Problem set 8 ([PDF]({{< baseurl >}}/resources/pset8)) | ([PDF]({{< baseurl >}}/resources/pset8_soln)) 
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+ASSIGNMENTS
+{{< thclose >}}
+{{< thopen >}}
+SOLUTIONS
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Problem set 1 ([PDF]({{< baseurl >}}/resources/pset1))
+{{< tdclose >}}
+{{< tdopen >}}
+([PDF - 1.0 MB]({{< baseurl >}}/resources/pset1_soln))
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Problem set 2 ([PDF]({{< baseurl >}}/resources/pset2))
+{{< tdclose >}}
+{{< tdopen >}}
+([PDF]({{< baseurl >}}/resources/pset2_soln))
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Problem set 3 ([PDF]({{< baseurl >}}/resources/pset3))
+{{< tdclose >}}
+{{< tdopen >}}
+([PDF]({{< baseurl >}}/resources/pset3_soln))
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Problem set 4 ([PDF]({{< baseurl >}}/resources/pset4))
+{{< tdclose >}}
+{{< tdopen >}}
+([PDF]({{< baseurl >}}/resources/pset4_soln))
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Problem set 5 ([PDF]({{< baseurl >}}/resources/pset5))
+{{< tdclose >}}
+{{< tdopen >}}
+([PDF]({{< baseurl >}}/resources/pset5_soln))
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Problem set 6 ([PDF]({{< baseurl >}}/resources/pset6))
+{{< tdclose >}}
+{{< tdopen >}}
+([PDF]({{< baseurl >}}/resources/pset6_soln))
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Problem set 7 ([PDF]({{< baseurl >}}/resources/pset7))
+{{< tdclose >}}
+{{< tdopen >}}
+([PDF]({{< baseurl >}}/resources/pset7_soln))
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Problem set 8 ([PDF]({{< baseurl >}}/resources/pset8))
+{{< tdclose >}}
+{{< tdopen >}}
+([PDF]({{< baseurl >}}/resources/pset8_soln))
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
 Mathematica Notebooks
 ---------------------
