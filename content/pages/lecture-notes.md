@@ -14,7 +14,7 @@ Images courtesy of Krieger Publishing are from the textbook:
 
 Zahn, Markus. _Electromagnetic Field Theory: A Problem Solving Approach_. Malabar, FL: Krieger Publishing, Co., 2003. ISBN: 9781575242354.
 
-The textbooks are available in [Supplemental Resources](/resources) under [Continuum Electromechanics](/resources/res-6-001-continuum-electromechanics-spring-2009/index.htm) and [Electromagnetic Field Theory: A Problem Solving Approach](/resources/res-6-002-electromagnetic-field-theory-a-problem-solving-approach-spring-2008/index.htm).
+The textbooks are available in [Supplemental Resources](/resources) under [Continuum Electromechanics](/courses/res-6-001-continuum-electromechanics-spring-2009) and [Electromagnetic Field Theory: A Problem Solving Approach](/courses/res-6-002-electromagnetic-field-theory-a-problem-solving-approach-spring-2008).
 
 {{< tableopen >}}
 {{< theadopen >}}
